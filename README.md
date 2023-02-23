@@ -1,2 +1,12 @@
 # Data-Poisoning-Attacks-to-Deep-Learning-Based-Recommender-Systems
-基于深度学习的推荐系统的数据中毒攻击代码，包括推荐系统的建立、数据中毒攻击的实施以及中毒攻击的防护
+- 2021-Data Poisoning Attacks to Deep Learning Based Recommender Systems
+- 2015-SVM-TIA A Shilling Attack Detection Method Based on SVM and Target Item Analysis in Recommender Systems
+- 2020-Influence Function based Data Poisoning Attacks to Top-N
+- 2019-Deep Learning Based Recommender System: A Survey and New Perspectives
+- 2014-Shilling attacks against recommender systems: a comprehensive survey
+- 2004-Shilling recommender systems for fun and profit
+- 2016-Data poisoning attacks on factorization-based collaborative fifiltering
+- 2018-Shilling attack detection for recommender systems based on credibility of group users and rating time series
+- 2018-Deep Learning Based Recommender Systems
+- 2014-Uncovering large groups of active malicious accounts in online social network
+- 2013-ClickStream Analysis for Sybil Detection
